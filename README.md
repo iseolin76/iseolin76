@@ -2,7 +2,6 @@
 
 - I am a student and a **developer**.
 - I like Golang
-- Full Stack is my goal.
 - I am currently studying to get a job and welcome to get a job anytime.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iseolin76&show_icons=true&theme=radical)
