@@ -3,7 +3,6 @@
 ```txt
 - I'm currently learning design and creative coding.
 - My goal is design, web, and app front end.
-- I know how to handle javascript, go, c, java now.
 - If you want to take me from work, I'm always welcome.
 ```
 
