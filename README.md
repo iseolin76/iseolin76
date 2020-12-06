@@ -1,4 +1,4 @@
-# Welcome to my github!! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiseolin76&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false&include_all_commit=%true&count_private=&true)](https://hits.seeyoufarm.com)
+# Welcome to my github!!! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiseolin76&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false&include_all_commit=%true&count_private=&true)](https://hits.seeyoufarm.com)
 
 ```txt
 - I'm currently learning design and creative coding.
