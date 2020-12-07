@@ -6,4 +6,4 @@
 - If you want to take me from work, I'm always welcome.
 ```
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iseolin76&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iseolin76&show_icons=true)
