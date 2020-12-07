@@ -7,4 +7,4 @@
 ```
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iseolin76&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseolin76&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseolin76& hide=Kotlin&show_icons=true)
