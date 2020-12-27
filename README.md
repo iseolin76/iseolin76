@@ -2,8 +2,7 @@
 
 ```txt
 - I'm currently learning design and creative coding.
-- My goal is design, web, and app front end.
-- If you want to take me from work, I'm always welcome.
+- My goal is design, web, and app front end
 ```
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iseolin76&show_icons=true)
