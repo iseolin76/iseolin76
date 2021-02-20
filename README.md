@@ -4,8 +4,6 @@
 🏨 affiliation: Gwangju Software Meister High School(learned C and Java)  
 ✨ My field: Web frontEnd using React  
 📮 email: iseolin76@gmail.com  
-💬 discordBot: [go](
-https://discord.com/api/oauth2/authorize?client_id=700963738966163487&permissions=522304&scope=bot)
 
 ## Another
   
