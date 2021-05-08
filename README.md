@@ -4,6 +4,7 @@
 🏨 affiliation: Gwangju Software Meister High School(learned C and Java)  
 ✨ My field: Web frontEnd using React  
 📮 email: iseolin76@gmail.com  
+📝 blog: https://velog.io/@mnjsk7541
 
 ## Another
   
