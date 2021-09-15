@@ -26,3 +26,8 @@
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 [![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)
+
+### etc...
+
+**[Creative Coding](https://github.com/iseolin76/Creative_Coding.git)** 취미로 Canvas, WebGL로 구현하는 Creative Coding  
+[![JavaScript Badge](https://img.shields.io/badge/Javascript-EED81A?style=flat-square&logo=Javascript&logoColor=white)](https://www.javascriptlang.org/)
