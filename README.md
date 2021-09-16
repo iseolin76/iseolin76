@@ -29,5 +29,5 @@
 
 ### Hobby
 
-**[Creative Coding](https://github.com/iseolin76/Creative_Coding.git)** 취미로 Canvas, WebGL로 구현하는 Creative Coding  
+**[Creative Coding](https://seolin-creative-coding.netlify.app/)** 취미로 Canvas, WebGL로 구현하는 Creative Coding  
 [![JavaScript Badge](https://img.shields.io/badge/Javascript-EED81A?style=flat-square&logo=Javascript&logoColor=white)](https://www.javascriptlang.org/)
