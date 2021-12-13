@@ -14,7 +14,7 @@
 
 ![SeoLin's github stats](https://github-readme-stats.vercel.app/api?username=iseolin76&show_icons=true)
   
-✨ *Learn about me...* **[PORTFOLIO](https://www.notion.so/db8b5d6eb7d5454b98a4642b23dc0a6e)** | **[BLOG](https://velog.io/@mnjsk7541)** | **<iseolin76@gmail.com>**
+✨ *Learn about me...* **[PORTFOLIO](https://fuzzy-snowflake-2f6.notion.site/_-_-4cff67e217d447ba974a3fd0d8e53ea8)** | **[BLOG](https://velog.io/@mnjsk7541)** | **<iseolin76@gmail.com>**
 
 <br/>
 
