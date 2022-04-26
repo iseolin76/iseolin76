@@ -19,11 +19,6 @@
 <br/>
 
 ### Released Projects  
-
-**[학교가 불편한 순간](https://www.the-moment.org/)** 학교 내의 불편한 순간을 담는 웹사이트  
-[![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
-[![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)  
   
 **[광주소프트웨어마이스터고 대나무숲](https://joog-lim.info/)** 광주소프트웨어마이스터고 전용 대나무숲  
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
