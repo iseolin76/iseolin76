@@ -18,13 +18,6 @@
 
 <br/>
 
-### Released Projects  
-  
-**[광주소프트웨어마이스터고 대나무숲](https://joog-lim.info/)** 광주소프트웨어마이스터고 전용 대나무숲  
-[![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
-[![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)  
-
 ### Hobby
 
 **[Creative Coding](https://seolin-creative-coding.netlify.app/)** 취미로 Canvas, WebGL로 구현하는 Creative Coding  
