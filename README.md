@@ -8,8 +8,7 @@
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
 
 😎 **WEB FRONT-END** Developer  
-🏨 Attending Gwangju Software Meister High School
-
+🏨 2022.11 ~ 퀀텀유니버스에 재직 중
 <br/>
 
 ![SeoLin's github stats](https://github-readme-stats.vercel.app/api?username=iseolin76&show_icons=true)
